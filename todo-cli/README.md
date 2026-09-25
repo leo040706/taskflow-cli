@@ -1,4 +1,4 @@
-# Todo CLI
+# TaskFlow CLI
 
 Gerenciador de tarefas simples via linha de comando, feito em Python com persistência em SQLite.
 
